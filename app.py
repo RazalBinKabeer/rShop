@@ -2,7 +2,7 @@ import os
 from random import randint
 # for i in range(300, 400, 3):
 for j in range(30):
-    d = str(312) + ' days ago'
+    d = str(314) + ' days ago'
     with open('file.txt', 'a') as file:
         file.write(d)
     
